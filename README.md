@@ -15,7 +15,8 @@
 
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=loseminho&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loseminho&layout=compact)](https://github.com/loseminho/github-readme-stats) 
+<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loseminho&layout=compact)](https://github.com/loseminho/github-readme-stats) 
 
 
 
